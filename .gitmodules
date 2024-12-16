@@ -1,0 +1,9 @@
+[submodule "lib/SDL"]
+	path = lib/SDL
+	url = https://github.com/libsdl-org/SDL.git
+[submodule "lib/SDL_TTF"]
+	path = lib/SDL_TTF
+	url = https://github.com/libsdl-org/SDL_ttf.git
+[submodule "lib/freetype"]
+	path = lib/freetype
+	url = https://github.com/freetype/freetype.git
